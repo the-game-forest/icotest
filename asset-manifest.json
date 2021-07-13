@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/icotest/static/css/main.229b26cb.chunk.css",
-    "main.js": "/icotest/static/js/main.f27ee05b.chunk.js",
-    "main.js.map": "/icotest/static/js/main.f27ee05b.chunk.js.map",
+    "main.js": "/icotest/static/js/main.9fc77291.chunk.js",
+    "main.js.map": "/icotest/static/js/main.9fc77291.chunk.js.map",
     "runtime-main.js": "/icotest/static/js/runtime-main.8f9ae580.js",
     "runtime-main.js.map": "/icotest/static/js/runtime-main.8f9ae580.js.map",
     "static/js/2.764efd6c.chunk.js": "/icotest/static/js/2.764efd6c.chunk.js",
     "static/js/2.764efd6c.chunk.js.map": "/icotest/static/js/2.764efd6c.chunk.js.map",
     "index.html": "/icotest/index.html",
-    "precache-manifest.9eabc21801c9ebb55a95a1d58a74dd11.js": "/icotest/precache-manifest.9eabc21801c9ebb55a95a1d58a74dd11.js",
+    "precache-manifest.6403f50ba291a280a71d8043971720f5.js": "/icotest/precache-manifest.6403f50ba291a280a71d8043971720f5.js",
     "service-worker.js": "/icotest/service-worker.js",
     "static/css/main.229b26cb.chunk.css.map": "/icotest/static/css/main.229b26cb.chunk.css.map",
     "static/media/logo.png": "/icotest/static/media/logo.45801c90.png"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8f9ae580.js",
     "static/js/2.764efd6c.chunk.js",
     "static/css/main.229b26cb.chunk.css",
-    "static/js/main.f27ee05b.chunk.js"
+    "static/js/main.9fc77291.chunk.js"
   ]
 }
