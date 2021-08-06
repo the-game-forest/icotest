@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/icotest/static/css/main.229b26cb.chunk.css",
-    "main.js": "/icotest/static/js/main.10c0ef03.chunk.js",
-    "main.js.map": "/icotest/static/js/main.10c0ef03.chunk.js.map",
+    "main.js": "/icotest/static/js/main.ca0019f3.chunk.js",
+    "main.js.map": "/icotest/static/js/main.ca0019f3.chunk.js.map",
     "runtime-main.js": "/icotest/static/js/runtime-main.8f9ae580.js",
     "runtime-main.js.map": "/icotest/static/js/runtime-main.8f9ae580.js.map",
     "static/css/2.fe62fa80.chunk.css": "/icotest/static/css/2.fe62fa80.chunk.css",
     "static/js/2.bcbbc34f.chunk.js": "/icotest/static/js/2.bcbbc34f.chunk.js",
     "static/js/2.bcbbc34f.chunk.js.map": "/icotest/static/js/2.bcbbc34f.chunk.js.map",
     "index.html": "/icotest/index.html",
-    "precache-manifest.714d8d2b7be87bdafd95f37757eee7b5.js": "/icotest/precache-manifest.714d8d2b7be87bdafd95f37757eee7b5.js",
+    "precache-manifest.d0eb91c96d059fe23f34651391f159a1.js": "/icotest/precache-manifest.d0eb91c96d059fe23f34651391f159a1.js",
     "service-worker.js": "/icotest/service-worker.js",
     "static/css/2.fe62fa80.chunk.css.map": "/icotest/static/css/2.fe62fa80.chunk.css.map",
     "static/css/main.229b26cb.chunk.css.map": "/icotest/static/css/main.229b26cb.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.fe62fa80.chunk.css",
     "static/js/2.bcbbc34f.chunk.js",
     "static/css/main.229b26cb.chunk.css",
-    "static/js/main.10c0ef03.chunk.js"
+    "static/js/main.ca0019f3.chunk.js"
   ]
 }
